@@ -4,7 +4,7 @@
 
 Reposits er hvor filer gemmes. Der er to den ene lokal (altså på din computer) den er afbilledet under BRANCES, den anden på Github kaldet Origin. Den findes under REMOTES.
 
-Alle de versioner du ser som punkter på tidslijen findes lokalt på din computer. Hvis du vil se dem kan du Checkout dem
+Alle de versioner du ser som punkter på tidslijen findes lokalt på din computer. Hvis du vil skifye til dem kan du Checkout dem. Det sker også når man dobbelt klikker.
 
 ### Konflikter
 
